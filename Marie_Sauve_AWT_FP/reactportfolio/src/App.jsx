@@ -18,7 +18,6 @@ function App() {
                             <ul className="navbar-nav ms-auto">                                 
                                 <li className="nav-item"><a className="nav-link" href="https://mariesauve.azurewebsites.net/" target="_blank">About</a></li>
                                 <li className="nav-item"><a className="nav-link" href="https://mariesauve.azurewebsites.net/Home/Contact" target="_blank">Contact</a></li>
-								<li className="nav-item"><a className="nav-link" href="https://www.linkedin.com/in/marie-sauve-web-dev/" target="_blank"><i className="fa-brands fa-linkedin fa-xl"></i> Linkedin</a></li>
                                 <li className="nav-item"><a className="nav-link" href="https://github.com/mariesauve" target="_blank"><i className="fa-brands fa-github fa-xl"></i> GitHub</a></li>
                                 </ul>
                             </div>
@@ -31,7 +30,7 @@ function App() {
                             <h1 className="masthead-heading mb-0">Discover My Portfolio</h1>
                             <h2 className="masthead-subheading mb-0">Prepare to be Impressed!</h2>
                             <div>
-                                <a className="btn btn-primary btn-xl rounded-pill mt-3" href="assets/img/gallery.png" target="_blank">My Gallery</a>
+                                <a className="btn btn-primary btn-xl rounded-pill mt-3" href="https://triosdevelopers.com/~M.Sauve/Portfolio2/" target="_blank">My Gallery</a>
                                 </div>
                             <div> <a className="btn btn-primary btn-xl rounded-pill mt-3" href="assets/Resume-2024.pdf" target="_blank">Resume</a>
                             </div>
@@ -91,10 +90,12 @@ function App() {
                                 <div className="col-lg-6 order-lg-1">
                                     <div className="p-5">
                                         <h2 className="display-4">Projects!</h2>
-                                    <p> Explore a collection of my diverse projects, demonstrating expertise in sought-after technologies like C# ASP.NET MVC, SQL, JavaScript, CSS, HTML/HTML5, Java, and C++. As a web developer student, I've crafted engaging solutions that harness the power of these languages and frameworks. Dive into my work to discover innovative designs, seamless user experiences, and efficient coding practices. Whether it's building dynamic web applications or crafting responsive interfaces, I'm passionate about delivering high-quality results. Browse through my projects to witness the intersection of creativity and technical skill. Ready to elevate your online presence? Let's collaborate on your next digital venture!</p>
+                                    <p> Explore a collection of my diverse projects, demonstrating expertise in sought-after technologies like C# ASP.NET MVC, SQL, JavaScript, CSS, HTML/HTML5, Java, and C++. As a web developer student, I've crafted engaging solutions that harness the power of these languages and frameworks. Dive into my work to discover innovative designs, seamless user experiences, and efficient coding practices. Whether it's building dynamic web applications or crafting responsive interfaces, I'm passionate about delivering high-quality results. Browse through my projects to witness the intersection of creativity and technical skill. Ready to elevate your online presence? Let's collaborate on your next digital venture!
+                                        <div> <a href="https://github.com/mariesauve" target="_blank"><i className="fa-brands fa-github fa-xl"></i> GitHub</a></div> </p>
 
                                         <a className="btn btn-primary btn-xl rounded-pill mt-5" href="https://triosdevelopers.com/~M.Sauve/?C=D;O=A" target="_blank">Projects Link</a>
-                                    </div>
+                                </div>
+                                
                                 </div>
                             </div>
                         </div>

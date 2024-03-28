@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marie\\react-apps-ev-class\\reactportfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|c:\\users\\marie\\react-apps-ev-class\\reactportfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|c:\\users\\marie\\react-apps-ev-class\\reactportfolio\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|c:\\users\\marie\\react-apps-ev-class\\reactportfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E72BC996-E084-498B-B4B9-4982A476DEF5}|reactportfolio.esproj|c:\\users\\marie\\react-apps-ev-class\\reactportfolio\\contactform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\marie\\react-apps-ev-class\\reactportfolio\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -71,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\marie\\react-apps-ev-class\\reactportfolio\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\marie\\react-apps-ev-class\\reactportfolio\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAC6AAAA",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwF4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-03-22T07:42:49.249Z"
+              "WhenOpened": "2024-03-22T07:42:49.249Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
