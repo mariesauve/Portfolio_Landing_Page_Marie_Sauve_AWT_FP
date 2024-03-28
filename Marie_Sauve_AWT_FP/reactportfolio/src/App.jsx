@@ -18,6 +18,7 @@ function App() {
                             <ul className="navbar-nav ms-auto">                                 
                                 <li className="nav-item"><a className="nav-link" href="https://mariesauve.azurewebsites.net/" target="_blank">About</a></li>
                                 <li className="nav-item"><a className="nav-link" href="https://mariesauve.azurewebsites.net/Home/Contact" target="_blank">Contact</a></li>
+								<li className="nav-item"><a className="nav-link" href="https://www.linkedin.com/in/marie-sauve-web-dev/" target="_blank"><i className="fa-brands fa-linkedin fa-xl"></i> Linkedin</a></li>
                                 <li className="nav-item"><a className="nav-link" href="https://github.com/mariesauve" target="_blank"><i className="fa-brands fa-github fa-xl"></i> GitHub</a></li>
                                 </ul>
                             </div>
