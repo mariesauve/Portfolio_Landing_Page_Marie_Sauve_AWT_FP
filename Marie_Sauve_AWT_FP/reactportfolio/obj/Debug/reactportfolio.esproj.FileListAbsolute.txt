@@ -1,1 +1,2 @@
 C:\Users\marie\react-apps-ev-class\reactportfolio\obj\Debug\reactportfolio.esproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive\Misc\GitHub\Portfolio_Landing_Page_Marie_Sauve_AWT_FP\Marie_Sauve_AWT_FP\reactportfolio\obj\Debug\reactportfolio.esproj.CoreCompileInputs.cache

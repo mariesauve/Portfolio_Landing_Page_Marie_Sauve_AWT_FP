@@ -16,8 +16,8 @@ function App() {
                             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span className="navbar-toggler-icon"></span></button>
                             <div className="collapse navbar-collapse" id="navbarResponsive">
                             <ul className="navbar-nav ms-auto">                                 
-                                <li className="nav-item"><a className="nav-link" href="https://mariesauve.azurewebsites.net/" target="_blank">About</a></li>
-                                <li className="nav-item"><a className="nav-link" href="https://mariesauve.azurewebsites.net/Home/Contact" target="_blank">Contact</a></li>
+                                <li className="nav-item"><a className="nav-link" href="\About.html" target="_blank">About</a></li>
+                                <li className="nav-item"><a className="nav-link" href="\Contact.html" target="_blank">Contact</a></li>
                                 <li className="nav-item"><a className="nav-link" href="https://github.com/mariesauve" target="_blank"><i className="fa-brands fa-github fa-xl"></i> GitHub</a></li>
                                 </ul>
                             </div>
@@ -46,7 +46,7 @@ function App() {
                         <div className="container px-5">
                             <div className="row gx-5 align-items-center">
                                 <div className="col-lg-6 order-lg-2">
-                                <div className="p-5"><img className="img-fluid rounded-circle" src="assets/img/01.jpg" alt="Cartoon coding girl" />
+                                <div className="p-5"><img className="img-fluid rounded-circle" src="assets/img/01.jpg" alt="Image by catalyststuff on Freepik" />
                                     <a href="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=search&page=1&position=3&uuid=b1dbeaf6-f76a-4026-ad8b-afe48de9279b">Image by catalyststuff on Freepik</a></div>
                                 </div>
                                 <div className="col-lg-6 order-lg-1">
@@ -63,7 +63,7 @@ function App() {
                         <div className="container px-5">
                             <div className="row gx-5 align-items-center">
                                 <div className="col-lg-6">
-                                <div className="p-5"><img className="img-fluid rounded-circle" src="assets/img/03.jpg" alt="Computer and code picture" /><a href="https://www.freepik.com/free-photo/composition-with-html-system-websites_75523907.htm#query=computer%20code&position=37&from_view=keyword&track=ais&uuid=a69cb232-ff35-4a11-b9cb-3453b403633e">Image by Freepik</a></div>
+                                <div className="p-5"><img className="img-fluid rounded-circle" src="assets/img/03.jpg" alt="Image by Freepik" /><a href="https://www.freepik.com/free-photo/composition-with-html-system-websites_75523907.htm#query=computer%20code&position=37&from_view=keyword&track=ais&uuid=a69cb232-ff35-4a11-b9cb-3453b403633e">Image by Freepik</a></div>
                                 </div>
                                 <div className="col-lg-6">
                                     <div className="p-5">
@@ -72,7 +72,7 @@ function App() {
                                     <div className="App">
                                         <SkillsTable />
                                     </div>
-                                        <a className="btn btn-primary btn-xl rounded-pill mt-5" href="https://mariesauve.azurewebsites.net/Home/Skills" target="_blank">Skills Link</a>
+                                    <a className="btn btn-primary btn-xl rounded-pill mt-5" href="https://triosdevelopers.com/~M.Sauve/" target="_blank">Projects Link</a>
 
                                     </div>
                                 </div>
@@ -93,7 +93,7 @@ function App() {
                                     <p> Explore a collection of my diverse projects, demonstrating expertise in sought-after technologies like C# ASP.NET MVC, SQL, JavaScript, CSS, HTML/HTML5, Java, and C++. As a web developer student, I've crafted engaging solutions that harness the power of these languages and frameworks. Dive into my work to discover innovative designs, seamless user experiences, and efficient coding practices. Whether it's building dynamic web applications or crafting responsive interfaces, I'm passionate about delivering high-quality results. Browse through my projects to witness the intersection of creativity and technical skill. Ready to elevate your online presence? Let's collaborate on your next digital venture!
                                         <div> <a href="https://github.com/mariesauve" target="_blank"><i className="fa-brands fa-github fa-xl"></i> GitHub</a></div> </p>
 
-                                        <a className="btn btn-primary btn-xl rounded-pill mt-5" href="https://triosdevelopers.com/~M.Sauve/?C=D;O=A" target="_blank">Projects Link</a>
+                                        <a className="btn btn-primary btn-xl rounded-pill mt-5" href="https://triosdevelopers.com/~M.Sauve/" target="_blank">Projects Link</a>
                                 </div>
                                 
                                 </div>
@@ -113,7 +113,7 @@ function App() {
                             <div className="col-auto">
                                 <a className="small" href="./public/lokishhh.jpg" target="_blank" alt="Shh Loki picture">Privacy</a>
                                 <span className="mx-1">&middot;</span>
-                                <a className="small" href="https://mariesauve.azurewebsites.net/Home/Contact" target="_blank"><i className="fa-solid fa-address-card fa-xl"></i></a>
+                                <a className="small" href="mailto: marie.sauve@outlook.com" target="_blank"><i className="fa-solid fa-address-card fa-xl"></i></a>
                                 <span className="mx-1">&middot;</span>
                                 <a className="small" href="https://github.com/mariesauve" target="_blank"><i className="fa-brands fa-github fa-xl"></i></a>
 
